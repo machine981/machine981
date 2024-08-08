@@ -17,5 +17,5 @@ Here is machine's homepage
 ![Visitor Count](https://profile-counter.glitch.me/machine981/count.svg)
 
 #### langs 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine981&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine981&layout=compact&theme=transparent)
 
