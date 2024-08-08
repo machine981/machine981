@@ -1,8 +1,8 @@
 ## Hi there 👋
 Here is machine's homepage
-- 🔭 I’m currently working on NLP and LLM algorithm
-- 🌱 I'm currently learning something interesting
-- 📫 How to reach me: maybe my email -> machine18@qq.com
+- 🔭 I’m currently working on **NLP and LLM algorithm**
+- 🌱 I'm currently learning **something interesting**
+- 📫 How to reach me: maybe my email -> **machine18@qq.com**
 
 
 ### My github
