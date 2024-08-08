@@ -4,8 +4,8 @@ Here is machine's homepage
 - 🌱 I'm currently learning **something interesting**
 - 📫 How to reach me:
   - Maybe my email: **machine18@qq.com**
-  - Or WeChat: **machine981201**
   - Please remember to state what you want
+- 😄 Read more about my blog [here](TODO)
 
 
 ### My github
