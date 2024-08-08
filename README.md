@@ -2,7 +2,10 @@
 Here is machine's homepage
 - 🔭 I’m currently working on **NLP and LLM algorithm**
 - 🌱 I'm currently learning **something interesting**
-- 📫 How to reach me: maybe my email -> **machine18@qq.com**
+- 📫 How to reach me:
+  - Maybe my email: **machine18@qq.com**
+  - Or WeChat: **machine981201**
+  - Please remember to state what you want
 
 
 ### My github
