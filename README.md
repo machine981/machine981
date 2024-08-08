@@ -6,9 +6,13 @@ Here is machine's homepage
 
 
 ### My github
+
+#### contribution
 ![](https://github-readme-stats.vercel.app/api?username=machine981&show_icons=true&theme=transparent)
 
+#### Historical visits
 ![Visitor Count](https://profile-counter.glitch.me/machine981/count.svg)
 
+#### langs 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine981&layout=compact&theme=tokyonight)
 
